@@ -8,4 +8,4 @@ elif 'a' <= char <= 'z':
 elif '0'<= char <'9':
     print(char,"is a number")
 else:
-        print(char,"is special character")
+    print(char,"is special character")

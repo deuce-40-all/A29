@@ -7,4 +7,6 @@ else:
 
     data=eval(input("enter any data"))
     if type(data) in [int,float,complex,str,bool]:
-        print("SVDT")
+        print("SVDT2")
+    else:
+        print("MVDT2")
