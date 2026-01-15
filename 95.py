@@ -1,5 +1,5 @@
 #Q
-a=123989
+a=int(input("enter an integer"))
 c=0
 while a>0:
     b=a%10
