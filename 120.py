@@ -9,4 +9,4 @@ def maniPulate():
         else:
             b.append((item,1))
     print(b)
-#maniPulate()
+maniPulate()
