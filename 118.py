@@ -1,4 +1,5 @@
-#WAP to 
+#WAP to perform the following output
+#op={0: 'nohtyP6', 1: 'si', 2: 'yrev4', 3: 'ysae'}
 
 a = 'Python is very easy'.split()
 b={}
